@@ -5,3 +5,4 @@ git tracks changes of files.
 test github
 create a new branch is quick and simple.
 add merge
+git stash
